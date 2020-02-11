@@ -4,8 +4,8 @@
   "description": "Nodejs Freecodecamp project",
   "main": "index.js",
   "engines": {
-    "node": "6.11.1",
-    "npm": "3.10.10"
+    "node": "10.15.1",
+    "npm":"6.8.0"
   },
   "scripts": {
     "start": "node index.js",
