@@ -1,0 +1,36 @@
+{
+  "name": "FCC-ExerciseTracker",
+  "version": "1.0.0",
+  "description": "Nodejs Freecodecamp project",
+  "main": "index.js",
+  "engines": {
+    "node": "6.11.1",
+    "npm": "3.10.10"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node index.js",
+    "dev": "NODE_ENV=development nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperSaiyanSami/FCC-ExerciseTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperSaiyanSami/FCC-ExerciseTracker/issues"
+  },
+  "homepage": "https://github.com/SuperSaiyanSami/FCC-ExerciseTracker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.11",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
