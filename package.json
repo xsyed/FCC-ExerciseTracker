@@ -24,7 +24,7 @@
   "homepage": "https://github.com/SuperSaiyanSami/FCC-ExerciseTracker#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "moment": "^2.24.0",
     "mongoose": "^5.8.11",
     "shortid": "^2.2.15"
